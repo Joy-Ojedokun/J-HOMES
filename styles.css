@@ -1,0 +1,247 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.call {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.home {
+    display: flex;
+}
+
+li a {
+    font-size: 18px;
+    margin-right: 25px;
+}
+
+img {
+    width: 100%;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+h1 {
+    font-family: Clash Grotesk;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 40px;
+}
+
+.decor {
+    color: orange;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.your {
+    line-height: normal;
+    font-family: Proxima Nova;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.eight {
+    margin-top: 45px;
+    display: flex;
+}
+
+.jay {
+    background-color: #F5FAFF;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 90px;
+}
+
+.joy {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.find {
+    background-color: orange;
+    border-radius: 8px;
+    display: flex;
+    padding: 14.5px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.meets {
+    display: flex;
+    padding: 64px 120px;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.likes {
+    width: 152px;
+    height: 150px;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0px 8px 10px 0px rgba(0, 0, 0, 0.20);
+    top: 60%;
+    left: -75px;
+    position: absolute;
+}
+
+.click {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: #FFF;
+    position: absolute;
+    right: 18%;
+    bottom: -75px;
+    box-shadow: 0px 8px 10px 0px rgba(0, 0, 0, 0.20);
+}
+
+h2 {
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 40px;
+    letter-spacing: 0.5px;
+}
+
+.cover {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+button {
+    border-radius: 8px;
+    display: flex;
+    padding: 14.5px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.design,
+.stay {
+    flex-grow: 1;
+    flex-basis: 250px;
+    position: relative;
+}
+
+.profile {
+    width: 30%;
+    position: relative;
+    bottom: 20%;
+}
+
+.enter {
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+footer {
+    background-color: black;
+    padding-top: 20px;
+}
+
+.card {
+    display: flex;
+}
+
+.colour {
+    width: 20%;
+    position: relative;
+    top: -22%;
+    right: -60%;
+}
+
+.greet {
+    padding-top: 40px;
+    width: 90%;
+}
+
+.face {
+    justify-content: flex-end;
+    display: flex;
+    width: 40%;
+    align-items: center;
+    margin-left: 260px;
+}
+
+.contain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.projects {
+    border: 2px solid gray;
+    padding-top: 20px;
+}
+
+.good {
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 60px;
+    position: relative;
+    padding-bottom: -40px;
+}
+
+span {
+    color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media screen {
+    img {
+        width: 100%;
+    }
+
+    body {
+        width: 375px;
+        height: 2589px;
+
+    }
+} */

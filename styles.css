@@ -5,9 +5,11 @@
     text-decoration: none;
 }
 
-li {
+
+.up {
+    display: inline;
     list-style: none;
-    display: inline-block;
+    display: flex;
 }
 
 .call {
@@ -15,13 +17,24 @@ li {
     padding-right: 60px;
 }
 
-.home {
-    display: flex;
+
+li {
+    padding-bottom: 15px;
+}
+
+
+.house {
+    padding-bottom: 25px;
 }
 
 li a {
     font-size: 18px;
     margin-right: 25px;
+}
+
+.us {
+    padding-top: 90px;
+    padding-bottom: 30px;
 }
 
 img {
